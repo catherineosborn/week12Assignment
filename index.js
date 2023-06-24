@@ -1,3 +1,4 @@
+//Cannot figure out why ingredient amounts will not display and ingredients will not delete
 class Recipe {
     constructor(name) {
         this.name = name;
